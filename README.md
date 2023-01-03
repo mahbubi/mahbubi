@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahbubi
 - 👀 I’m interested in Cloud Enviroment
-- 🌱 I’m currently learning Openstack, Azure and Other Cloud Provider
+- 🌱 I’m currently learning Openstack, Azure, Google Cloud and Other Cloud Provider
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/mahbubi-hamdani/)
 
 <!---
